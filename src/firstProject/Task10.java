@@ -11,7 +11,7 @@ public class Task10 {
 
             for (int j =i+ 1; j <arr.length ; j++) {
                 if (arr[i]==arr[j]){
-                    System.out.println("duplicate element: "+arr[i]);
+                    System.out.println("duplicate element: "+arr[j]);
                 }
             }
               }
